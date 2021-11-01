@@ -1,11 +1,0 @@
-
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(„­Æ…ùÿÿÿÿ8ã†ó’Ì/
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(»‚”ôýÿÿÿÿ8ä†ó’Ì/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ý÷Ú‡ùÿÿÿÿ8å†ó’Ì/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¯Ù‡8å†ó’Ì/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(þóì¥8ë†ó’Ì/
-n
-java:S1192	"LDefine a constant instead of duplicating this literal "07000000000" 4 times.(„­Æ…ùÿÿÿÿ8¸‡ó’Ì/
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù‰Ü›þÿÿÿÿ8Æ‡ó’Ì/
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢®ÿ£8Ø‡ó’Ì/
