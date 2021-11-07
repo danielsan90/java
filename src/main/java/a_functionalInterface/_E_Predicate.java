@@ -16,6 +16,7 @@ public class _E_Predicate {
         System.out.println("is phone number valid and contains isPhoneNumberContainsSpecificNumber ="+
                 isPhoneNumberValidPredicate.or(isPhoneNumberContainsSpecificNumber).test("070000000003"));
 
+        System.out.println(isNameDaniele.test("Daniele"));
 
 
     }
@@ -27,6 +28,9 @@ public class _E_Predicate {
     }
 
     static Predicate<String> isPhoneNumberValidPredicate = phoneNumber -> phoneNumber.startsWith("07") && phoneNumber.length()==11;
+
+    static Predicate<String> isNameDaniele= (name) -> name.equals("Daniele");
+
 
     static Predicate<String> isPhoneNumberContainsSpecificNumber = phoneNumber -> phoneNumber.contains("3");
 
