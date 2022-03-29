@@ -1,3 +1,3 @@
-# java 8
+# Java 8
 
 Functional vs imperative programming
